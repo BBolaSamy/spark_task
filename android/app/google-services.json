@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "288118767393",
+    "firebase_url": "https://spark-test-a5965.firebaseio.com",
+    "project_id": "spark-test-a5965",
+    "storage_bucket": "spark-test-a5965.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:288118767393:android:0f5813daaee5a34f484860",
+        "android_client_info": {
+          "package_name": "com.example.spark_task"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "288118767393-2efbp28sslo06cfjetovierkk1p2b3b0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhxuDmGwbalXhf1VFU1VakTIQLzE_KWbc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "288118767393-2efbp28sslo06cfjetovierkk1p2b3b0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
